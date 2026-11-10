@@ -27,7 +27,7 @@ run_mps runs every circuit TWICE (at chi_max and chi_max x 4). If the top-1 prob
 
 ## Install
 
-For a detailed, step-by-step guide (written for beginners), see INSTALL.md.
+For a detailed, step-by-step guide (written for beginners), see INSTALL.md. - Or continue here if you know what you are doing.
 
 ### WSL2 (Windows)
 
