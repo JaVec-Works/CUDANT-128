@@ -27,6 +27,8 @@ run_mps runs every circuit TWICE (at chi_max and chi_max x 4). If the top-1 prob
 
 ## Install
 
+For a detailed, step-by-step guide (written for beginners), see INSTALL.md.
+
 ### WSL2 (Windows)
 
     wsl --install -d Ubuntu-24.04
